@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">TwitterClone</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">zTSmSVlPR1Zsqg3MAzOcNlGS8e2EnnLr23hasihT</string>
+    <string name="back4app_client_key">5weySR3LEss41bbxAiMFzf311ArJG2H5x0GEKl7a</string>
 </resources>
